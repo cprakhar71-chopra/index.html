@@ -1,0 +1,3 @@
+Assignment 1: What Happens Between Typing a URL and Seeing a Web Page?
+
+When we type a URL into a web browser and press Enter, the browser first checks the URL and identifies the domain name. The DNS (Domain Name System) translates the domain name into an IP address. The browser then establishes a connection with the web server and sends an HTTP or HTTPS request. The server processes the request and sends the required resources, including HTML, CSS, JavaScript, and images. The browser uses HTML to create the structure of the page, CSS to style it, and JavaScript to add interactivity. Finally, the browser displays the webpage on the screen.
