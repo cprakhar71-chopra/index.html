@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First HTML Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <h2>About HTML</h2>
+    <p>HTML stands for HyperText Markup Language.</p>
+
+    <h2>Why Do We Use HTML?</h2>
+    <p>HTML is used to create the structure of web pages.</p>
+
+    <h3>My Learning Journey</h3>
+    <p>I am learning HTML to become a web developer.</p>
+
+</body>
+</html>
